@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'VAG Rounded Std';
+    src: url('VAGRoundedStd-Bold.eot');
+    src: local('VAG Rounded Std Bold'), local('VAGRoundedStd-Bold'),
+        url('VAGRoundedStd-Bold.eot?#iefix') format('embedded-opentype'),
+        url('VAGRoundedStd-Bold.woff2') format('woff2'),
+        url('VAGRoundedStd-Bold.woff') format('woff'),
+        url('VAGRoundedStd-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VAG Rounded Std';
+    src: url('VAGRoundedStd-Light.eot');
+    src: local('VAG Rounded Std Light'), local('VAGRoundedStd-Light'),
+        url('VAGRoundedStd-Light.eot?#iefix') format('embedded-opentype'),
+        url('VAGRoundedStd-Light.woff2') format('woff2'),
+        url('VAGRoundedStd-Light.woff') format('woff'),
+        url('VAGRoundedStd-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VAG Rounded Std';
+    src: url('VAGRoundedStd-Thin.eot');
+    src: local('VAG Rounded Std Thin'), local('VAGRoundedStd-Thin'),
+        url('VAGRoundedStd-Thin.eot?#iefix') format('embedded-opentype'),
+        url('VAGRoundedStd-Thin.woff2') format('woff2'),
+        url('VAGRoundedStd-Thin.woff') format('woff'),
+        url('VAGRoundedStd-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VAG Rounded Std';
+    src: url('VAGRoundedStd-Black.eot');
+    src: local('VAG Rounded Std Black'), local('VAGRoundedStd-Black'),
+        url('VAGRoundedStd-Black.eot?#iefix') format('embedded-opentype'),
+        url('VAGRoundedStd-Black.woff2') format('woff2'),
+        url('VAGRoundedStd-Black.woff') format('woff'),
+        url('VAGRoundedStd-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
